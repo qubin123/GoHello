@@ -17,6 +17,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"branch03");
+    NSLog(@"branch02");
 }
 
 
